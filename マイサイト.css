@@ -1,5 +1,5 @@
 @media screen and (max-width: 480px)
-@media screen and (max-width: 768px)
+{
 
 .header{
   height:45px;
@@ -108,3 +108,5 @@ p{
 p4{
  text-align: left;
  }
+
+}
